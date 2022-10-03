@@ -7,7 +7,7 @@
 
 - ⚡️ [Linkedin](https://www.linkedin.com/in/agasefamircan)
 
-- :  [Email](mailto:agasefemircanov@gmail.com)
+- 📫 [Email](mailto:agasefemircanov@gmail.com)
   
 
 <br/>  
