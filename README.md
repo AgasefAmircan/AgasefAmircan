@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning React  
 
-- ⚡️ Linkedin: https://www.linkedin.com/in/agasefamircan
+- ⚡️ [Linkedin]((https://www.linkedin.com/in/agasefamircan))
 
-- :email: Mail: agasefemircanov@gmail.com 
+- :[Email]((agasefemircanov@gmail.com))
   
 
 <br/>  
