@@ -30,7 +30,9 @@
     <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.js" height="80" />    
     <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" height="80" /> 
      <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" height="80" /> 
-    
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node js" height="80" /> 
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="80" /> 
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" alt="MySql" height="80" /> 
   </div>
   </td>
   </tr>
