@@ -3,7 +3,7 @@
   
 - 🔭 I’m currently working on FrontEnd
 
-- 🌱 I’m currently learning React  
+- 🌱 I’m currently learning Next  
 
 - ⚡️ [Linkedin](https://www.linkedin.com/in/agasefamircan)
 
