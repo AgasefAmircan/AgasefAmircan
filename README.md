@@ -41,7 +41,8 @@
 
 <br/>  
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=agasefamircan&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=agasefamircan&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+
                                                                                                                                          
   
 <br/>  
