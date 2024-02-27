@@ -9,7 +9,7 @@
 
 - 📫 [Email](mailto:agasefemircanov@gmail.com)
 
--    ![](https://komarev.com/ghpvc/?agasefamircan=AgasefAmircan&color=blue)
+-    ![](https://komarev.com/ghpvc/?agasefamircan=agasefamircan&color=blue)
 
 <br/>  
 
